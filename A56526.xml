@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A consolatory poem address'd to His Most Sacred Majesty by W. Partridge ...</title>
+            <author>Partridge, W. (William), b. 1662 or 3.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56526</idno>
+            <idno type="STC">Wing P635</idno>
+            <idno type="STC">ESTC R663</idno>
+            <idno type="EEBO-CITATION">13169964</idno>
+            <idno type="OCLC">ocm 13169964</idno>
+            <idno type="VID">98262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56526)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98262)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 432:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A consolatory poem address'd to His Most Sacred Majesty by W. Partridge ...</title>
+                  <author>Partridge, W. (William), b. 1662 or 3.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98262:1"/>
+            <!-- PDF PAGE 145 -->
+            <pb facs="tcp:98262:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 145 -->
+            <p>A Conſolatory Poem: ADDRESS'D TO HIS Moſt Sacred Majeſty.</p>
+            <p>By <hi>W. PARTRIDGE,</hi> Ex Aulâ <hi>B. Mariae Magd.</hi> Oxon.</p>
+            <q>Vincet Amor Patriae, laudum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> immenſa cupido.
+<bibl>
+                  <hi>Virg.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Baldwin,</hi> near the <hi>Oxford-Arms-Inn,</hi> in <hi>Warwick-Lane,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:98262:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 146 -->
+            <pb n="3" facs="tcp:98262:2"/>
+            <!-- PDF PAGE 146 -->
+            <head>A Conſolatory Poem, &amp;c.</head>
+            <lg>
+               <l>INſpire me, <hi>Muſe,</hi> with ſome peculiar Fire,</l>
+               <l>Since Grief congeal'd the Heats of my Deſire;</l>
+               <l>Thoſe Glorious Beams, which did diſpenſe us Light,</l>
+               <l>Are now retir'd within the Shades of Night;</l>
+               <l>Whoſe Envious Sable Coverts ſhroud the Dawn,</l>
+               <l>Her Sparkling, Radiant Luſtre now with-drawn.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Illuſtrious Prince!</hi> vouchſafe I humbly may,</l>
+               <l>Submiſſive Incenſe at Her Altar pay,</l>
+               <l>Tho' Seraphims Triumphant guard the Way.</l>
+               <l>Immortal Glory muſt perpetuate Fame,</l>
+               <l>Since Time it ſelf can't terminate Her Name;</l>
+               <l>The God's proclaim'd Her Summons whence She came:</l>
+               <l>Her Soul ſoar'd hence, to Regions of the Bleſt,</l>
+               <l>There to enjoy Infinity of Reſt.</l>
+            </lg>
+            <lg>
+               <l>Too long <hi>(Dread Sir!)</hi> Your Grief You may ſuſtain,</l>
+               <l>'Ere This, diffus'd o're ev'ry Hill and Plain,</l>
+               <l>Whirl'd o're the Surface of the Liquid Main:</l>
+               <pb n="4" facs="tcp:98262:3"/>
+               <!-- PDF PAGE 147 -->
+               <l>This <hi>Belgia</hi> did, in Mournful Accents, tell,</l>
+               <l>Repeating oft Her Direful, Funeral Knell!</l>
+               <l>In ev'ry Region, underneath the Sky,</l>
+               <l>The Rural Swains their Tuneful Pipes employ,</l>
+               <l>In Paſtoral Lays compoſe Her Elegy:</l>
+               <l>Then to the Neighbouring Woods they do repair,</l>
+               <l>To Heaven they ſend their 'plaints, thro' yielding Air;</l>
+               <l>Elect tall Trees, the Wonder of the Groves,</l>
+               <l>And there engrave their Sorrows, and their Loves:</l>
+               <l>From thence, to Purling Streams they do retire,</l>
+               <l>To mitigate the Thirſt of Grief's Deſire;</l>
+               <l>Neglected Flocks, in careleſs Order, ſtray,</l>
+               <l>And Kids, and Lambs, to Wolves expos'd a Prey.</l>
+            </lg>
+            <lg>
+               <l>But <hi>(Oh Eternal Powers!)</hi> You, who diſpenſe,</l>
+               <l>Scepters to Kings, by Sacred Providence;</l>
+               <l>Be once Propitious in the Higheſt Kind,</l>
+               <l>To calm the Anguiſh of His tortur'd Mind:</l>
+               <l>Divert His Cares by ſome more Noble Way,</l>
+               <l>Inſpire His Thoughts on each Victorious Day,</l>
+               <l>Adorn'd with Triumphs, to appear more Gay:</l>
+               <l>Tho' to condole Her Abſence here, is juſt,</l>
+               <l>(The laſt Oblation to ſo Great a Truſt;)</l>
+               <l>By Grief's Exceſs, imprudently He may</l>
+               <l>The Vital Lamp extinguiſh with the Day;</l>
+               <pb n="5" facs="tcp:98262:3"/>
+               <!-- PDF PAGE 147 -->
+               <l>Might Tears prevail, ſuch Streams from Fountains flow,</l>
+               <l>As wou'd, in time, into a Deluge grow;</l>
+               <l>But they, alas! their Rills are ſpent in vain,</l>
+               <l>Retrieve no more, than Flouds, or Showers of Rain:</l>
+               <l>And tho' our Sorrow may find ſome Relief,</l>
+               <l>By theſe Attendants uſual to our Grief;</l>
+               <l>Yet Life extinct, they Vivifie no more,</l>
+               <l>Than Salt, that quenches Flames, can Flames reſtore.</l>
+            </lg>
+            <lg>
+               <l>Deſiſt, <hi>(Heroick Prince!)</hi> Mourn, Mourn no more!</l>
+               <l>All <hi>Europe</hi> does Your Mighty Loſs Deplore.</l>
+               <l>Tho' Solemn Rites are fit; yet long ſuſpence,</l>
+               <l>Might queſtion Juſtice of Omnipotence.</l>
+               <l>Great as You are, King of Your Self appear,</l>
+               <l>Exempt from Grief, as You are void of Fear:</l>
+               <l>Purſue thoſe Paths of Honour, juſtly due;</l>
+               <l>By Powers Above, Ordain'd for none but You.</l>
+               <l>Were Tranſmutation true, as <hi>Bards</hi> Proclaim,</l>
+               <l>Your Soul from <hi>Alexander,</hi> hither came,</l>
+               <l>Or from the: Mighty <hi>Caeſar</hi>'s equal Fame.</l>
+               <l>Conqueſt by Fate, Attends your Valorous Arms;</l>
+               <l>Inſpir'd, undaunted at your Foes Alarms:</l>
+               <l>O're Sorrow triumph, as o're dangerous Toyl;</l>
+               <l>Appear Your Self, Vouchſafe a Glorious Smile.</l>
+            </lg>
+            <pb n="6" facs="tcp:98262:4"/>
+            <!-- PDF PAGE 148 -->
+            <lg>
+               <l>Rouze, Rouze to Arms! Your wonted Courage calls,</l>
+               <l>Your humble Suppliants are Your Generals;</l>
+               <l>Your Foreign Army droops, expecting, wait</l>
+               <l>For You, their Hopes, Joy, Life, and happy Fate.</l>
+               <l>Clouds muſt diſperſe, if You appear Serene,</l>
+               <l>And diſmal Woe it ſelf retire, unſeen,</l>
+               <l>Behind the Covert of Oblivions Screen.</l>
+            </lg>
+            <lg>
+               <l>Tho' <hi>Turtle</hi>-like, You Her ſad Loſs bemoan,</l>
+               <l>And Love it ſelf, invoaks ſome piteous Groan;</l>
+               <l>Yet Marſhal Glory can't admit Delay,</l>
+               <l>Triumphing Lawrels Crown the Victor's Way.</l>
+               <l>You, You alone, the Gods Elected, bring</l>
+               <l>To our Diſtreſs, our Saviour, and our King.</l>
+               <l>Exceſſive Paſſions equally deſtroy;</l>
+               <l>Extreams of Grief, as thoſe of ſudden Joy,</l>
+               <l>Impulſe the Spirits Vital, till we die.</l>
+            </lg>
+            <lg>
+               <l>Ceaſe to Lament, Three Nations doe Implore;</l>
+               <l>As God's Vicegerent, they Your Worth adore;</l>
+               <l>On You depends their Surpluſage of Store:</l>
+               <l>For when the lofty <hi>Oak,</hi> the Groves chief Pride,</l>
+               <l>Unnerv'd by Rain, falls on a Mountains ſide,</l>
+               <l>The leſſer Trees, and under Shrubs do find</l>
+               <l>Themſelves Expos'd to every Storm of Wind.</l>
+               <pb n="7" facs="tcp:98262:4"/>
+               <!-- PDF PAGE 148 -->
+               <l>Hence all the dire Calamities of State,</l>
+               <l>Hence Civil Wars, and thence inteſtine Hate;</l>
+               <l>Witneſs, (O Monſtrous Times! Eternal dread!)</l>
+               <l>How Madneſs rag'd! their Royal Martyr dead!</l>
+               <l>Diſtracted Fury did poſſeſs the Rout,</l>
+               <l>And ſwift Deſtruction flew the Land throughout!</l>
+            </lg>
+            <lg>
+               <l>I urge One <hi>Maxim</hi> yet, for <hi>Albion's</hi> ſake,</l>
+               <l>Your Tribulation does Your Foes awake;</l>
+               <l>Promotes new Courage to the <hi>Gallick</hi> Pride,</l>
+               <l>Bold at the firſt, but more Reſerv'd when try'd.</l>
+               <l>Theſe modeſt Truths, Your own Exploits declare,</l>
+               <l>Your Soul's inſtinct for <hi>War,</hi> of <hi>Grief</hi> beware.</l>
+               <l>
+                  <hi>Darius</hi> did his Captive Queen bemoan,</l>
+               <l>He Conquer'd was; You juſtly Rule alone.</l>
+               <l>Yet to Her Shrine, true Sorrow ought no leſs</l>
+               <l>Than Offerings pay, but not to an Exceſs.</l>
+            </lg>
+            <lg>
+               <l>As leſſer Heroes do advance Renown,</l>
+               <l>By Acts, tho' Great, unworthy of a Crown;</l>
+               <l>Unbounded Yours, the Diadem adorn;</l>
+               <l>
+                  <hi>Heralds</hi> Salute You Trophies every Morn.</l>
+               <l>To You, alone, we Adoration pay,</l>
+               <l>In You, our Chief, we all our Safety lay:</l>
+               <l>Your Adverſe Fate to brave Repute will bring;</l>
+               <l>Victorious Conduct dignifies a King.</l>
+            </lg>
+            <pb n="8" facs="tcp:98262:5"/>
+            <!-- PDF PAGE 149 -->
+            <lg>
+               <l>Tho' She is gone, and with Her fled away</l>
+               <l>Creation's Lovelieſt Part, which ought to ſtay;</l>
+               <l>Tho' Her Excelling Virtues were Compleat,</l>
+               <l>And <hi>Graces</hi> choſe Her Manſion their Retreat;</l>
+               <l>Tho' High Perfections, and ſo vaſt, we find</l>
+               <l>Truly proportion'd to ſo Great a Mind,</l>
+               <l>Proclaim'd Her <hi>Mirrour of all Woman-kind:</hi>
+               </l>
+               <l>Yet Ceaſe to Mourn, from Sorrow now Refrain;</l>
+               <l>
+                  <hi>Condolance,</hi> tho' Sincere, is all in vain:</l>
+               <l>If Kings from Gods their True Effigies bear,</l>
+               <l>And Repreſent their Ordination here;</l>
+               <l>'Twou'd derogate from Attributes of Fame,</l>
+               <l>By Grief, to leſſen that All-Glorious Name.</l>
+            </lg>
+            <lg>
+               <l>Hail, <hi>Royal Sir!</hi> Happy we You enjoy;</l>
+               <l>Three Nation's Pride, to Foes alone Annoy:</l>
+               <l>'Tis Your Indulgence does endear each Soul,</l>
+               <l>Whoſe Influential Rays, without Controul,</l>
+               <l>
+                  <hi>Birth</hi> gives to <hi>Bliſs,</hi> and <hi>Honour</hi> to the <hi>Throne;</hi>
+               </l>
+               <l>'Tis God-like to be <hi>Great,</hi> and <hi>Rule</hi> Alone:</l>
+               <l>So <hi>Good!</hi> ſo <hi>Wiſe!</hi> ſo <hi>Merciful!</hi> ſo <hi>Kind!</hi>
+               </l>
+               <l>So <hi>Juſtly Pious!</hi> ſo <hi>Sincere in Mind!</hi>
+               </l>
+               <l>Your <hi>Qualities</hi> from Humane ſeem Refin'd!</l>
+            </lg>
+            <lg>
+               <l>Since Ravenous Death does unrelenting prove,</l>
+               <l>And no Returns will make Bewailing <hi>Love;</hi>
+               </l>
+               <pb n="9" facs="tcp:98262:5"/>
+               <!-- PDF PAGE 149 -->
+               <l>Since he is deaf to all our Pray'rs and Tears,</l>
+               <l>And obſtinate, in ſpight of all our Fears;</l>
+               <l>Arm, Arm, <hi>(Great Sir!)</hi> before his Trumpet ſound,</l>
+               <l>Leſt <hi>Grief</hi> expoſe You to a Second Wound;</l>
+               <l>His Grim pale Ghoſt, at laſt, will Conquer All,</l>
+               <l>
+                  <hi>Victim,</hi> and <hi>Victor</hi> too, before him fall:</l>
+               <l>An Age, at leaſt, <hi>You</hi> may prevent him ſtill,</l>
+               <l>Do but Recall Your Courage to Your Will;</l>
+               <l>Exert Your Soul, (to Gods Themſelves ally'd)</l>
+               <l>Unconquer'd yet, as often as 'twas Try'd:</l>
+               <l>Conſider, Sighs do vaniſh into Air,</l>
+               <l>As Bodies <hi>Macerated</hi> are, by Care,</l>
+               <l>And <hi>Tabid</hi> grow, by Vexing and Deſpair.</l>
+            </lg>
+            <lg>
+               <l>Enough! enough! Ceaſe longer to torment</l>
+               <l>Your Matchleſs Self, with racking Diſcontent;</l>
+               <l>Invelope <hi>Grief</hi> no more within Your Mind,</l>
+               <l>Be to <hi>Your Self,</hi> and to <hi>Your Subjects,</hi> Kind:</l>
+               <l>Diſtant and Near, All Loyally Addreſs,</l>
+               <l>Your <hi>Life,</hi> and <hi>Health,</hi> unfeignedly Careſs:</l>
+               <l>
+                  <hi>Great Britain</hi>'s Safety does on <hi>You</hi> depend,</l>
+               <l>Their <hi>Lives</hi> and <hi>Fortunes</hi> they to <hi>You</hi> Commend:</l>
+               <l>Nay, <hi>Belgia</hi> too, and the <hi>Confederates</hi> All,</l>
+               <l>Are to Your Intereſt linkt, Reciprocal:</l>
+               <l>Your Enemies amaz'd, expecting ſtand,</l>
+               <l>And dread th' Event of Your All-wiſe Command:</l>
+               <pb n="10" facs="tcp:98262:6"/>
+               <!-- PDF PAGE 150 -->
+               <l>Then from dejected Mourning, raiſe Your Head,</l>
+               <l>Tho' Softer Joys are fruſtrate now She's dead.</l>
+               <l>Ariſe! ariſe! To Your Great Charge repair;</l>
+               <l>Your Power does Rival the Great God of War</l>
+               <l>
+                  <hi>Conqueſt</hi> it ſelf attends; <hi>Your Trumpets</hi> ſound;</l>
+               <l>And <hi>Victory</hi> from Hills and Vales around,</l>
+               <l>Rejoycing, beat the Rocks, and then Rebound:</l>
+               <l>Nay, <hi>Echoes</hi> too, which do deceive Mankind,</l>
+               <l>By flattering <hi>What</hi> we dearly left behind,</l>
+               <l>As tho' Inſpir'd in their Divine Abodes,</l>
+               <l>To ſpeak Prophetick Raptures from the Gods;</l>
+               <l>As Ecſtacy'd, the Joyful News to hear,</l>
+               <l>Repeat, without Ceſſation, every where:</l>
+               <l>The <hi>Nymphs</hi> and <hi>Fawns</hi> receive it in the Groves,</l>
+               <l>Divulge the News to late Forſaken Loves:</l>
+               <l>The Joy is heard o're all the Spacious Plains,</l>
+               <l>And does Revive dejected, dying Swains;</l>
+               <l>Neglected Pipes, which uſeleſs were before,</l>
+               <l>Your Tryumphs play, and Sorrow is no more.</l>
+            </lg>
+            <lg>
+               <l>Launch forth, my <hi>Muſe!</hi> Once more let Me declare</l>
+               <l>The Excellence of Your <hi>Illuſtrious Fair;</hi>
+               </l>
+               <l>Permit, with <hi>Sacred Reverence,</hi> I Raiſe</l>
+               <l>Monuments Stupendious to Her Praiſe;</l>
+               <l>Such <hi>Pyramids</hi> to Her <hi>Memorial</hi> due,</l>
+               <l>As ſhall Eternize both Her Fame, and <hi>YOU:</hi>
+               </l>
+               <pb n="11" facs="tcp:98262:6"/>
+               <!-- PDF PAGE 150 -->
+               <l>On <hi>Adamantine Collumns,</hi> I'le Rehearſe</l>
+               <l>Her Spotleſs Virtues in <hi>Immortal Verſe;</hi>
+               </l>
+               <l>In <hi>Characters</hi> Indelibly Sublime,</l>
+               <l>Shall laſt beyond the Mouldring Fate of Time.</l>
+            </lg>
+            <lg>
+               <l>Th' <hi>Omniſcient Gods</hi> thought Her too good for Earth,</l>
+               <l>Requir'd Her early Tribute due to Death,</l>
+               <l>The <hi>Finite Limits</hi> of a Gaſp of Breath:</l>
+               <l>From <hi>Thence,</hi> Tranſlated to a Throne Divine,</l>
+               <l>Where <hi>Virtuous Acts</hi> Refulgent ever Shine;</l>
+               <l>Where <hi>Io Poeens</hi> Angels ever ſing!</l>
+               <l>Melodious Anthems over <hi>Death</hi> and <hi>Sin!</hi>
+               </l>
+               <l>Conſorts of <hi>Cherubs, Hallelujahs</hi> Ring!</l>
+               <l>Where Joys Eternal circle, and declare</l>
+               <l>What Beatifick, Real Bliſſes are,</l>
+               <l>For Piety, prepar'd by th' <hi>Almighty</hi>'s Care:</l>
+               <l>Where, from Her Droſſy, <hi>Mundane</hi> Part ſet Free,</l>
+               <l>She does Embrace an Immortality;</l>
+               <l>And all the <hi>Charming Choire,</hi> with Tranſports ſound,</l>
+               <l>Proclaim Bleſt Peace, in an <hi>Eternal Round!</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
